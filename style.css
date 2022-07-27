@@ -1,0 +1,8 @@
+.banner{
+    background-image: url();
+}
+@media only screen and (max-width: 600px){
+    .banner{
+        display: flex;
+        flex-direction: column-reverse;
+}
